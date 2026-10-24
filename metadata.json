@@ -1,0 +1,6 @@
+{
+  "name": "MotoPulse - Motorcycle 2000km Service Reminder",
+  "description": "Smart motorcycle odometer tracker and maintenance reminder alerting riders every 2,000 km for oil changes, chain care, and routine bike servicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
